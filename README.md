@@ -21,7 +21,7 @@ To compile and run this application, you need a C compiler installed on your sys
 
 ### 1. Clone the Repository
 ```bash
-git https://github.com/karanangane2304/CodeAlpha_Matrix_Operations
+git clone https://github.com/karanangane2304/CodeAlpha_Matrix_Operations
 cd Matrix_Operations.c
 ```
 
